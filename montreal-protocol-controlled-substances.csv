@@ -1,0 +1,115 @@
+Annex,Group,Formula,Substance,Ozone-Depleting Potential,100-Year Global Warming Potential,Number of isomers
+Annex A,Group I,CFCl3, CFC‐11 ,1.0,4 750,
+Annex A,Group I,CF2Cl2, CFC‐12 ,1.0,10 900,
+Annex A,Group I,C2F3Cl3, CFC‐113 ,0.8,6 130,
+Annex A,Group I,C2F4Cl2, CFC‐114 ,1.0,10 000,
+Annex A,Group I,C2F5Cl, CFC‐115 ,0.6,7 370,
+Annex A,Group II,CF2BrCl, halon‐1211 ,3.0,,
+Annex A,Group II,CF3Br, halon‐1301 ,10.0,,
+Annex A,Group II,C2F4Br2, halon‐2402 ,6.0,,
+Annex B,Group I,CF3Cl, CFC‐13 ,1.0,,
+Annex B,Group I,C2FCl5, CFC‐111 ,1.0,,
+Annex B,Group I,C2F2Cl4, CFC‐112 ,1.0,,
+Annex B,Group I,C3FCl7, CFC‐211 ,1.0,,
+Annex B,Group I,C3F2Cl6, CFC‐212 ,1.0,,
+Annex B,Group I,C3F3Cl5, CFC‐213 ,1.0,,
+Annex B,Group I,C3F4Cl4, CFC‐214 ,1.0,,
+Annex B,Group I,C3F5Cl3, CFC‐215 ,1.0,,
+Annex B,Group I,C3F6Cl2, CFC‐216 ,1.0,,
+Annex B,Group I,C3F7Cl, CFC‐217 ,1.0,,
+Annex B,Group II,CCl4,carbon tetrachloride,1.1,,
+Annex B,Group III,C2H3Cl3,"1,1,1‐trichloroethane  methyl chloroform ",0.1,,
+Annex C,Group I,CHFCl2, HCFC‐21 **,0.04,151,1
+Annex C,Group I,CHF2Cl, HCFC‐22 **,0.055,1 810,1
+Annex C,Group I,CH2FCl, HCFC‐31 ,0.02,,1
+Annex C,Group I,C2HFCl4, HCFC‐121 ,0.01–0.04,,2
+Annex C,Group I,C2HF2Cl3, HCFC‐122 ,0.02–0.08,,3
+Annex C,Group I,C2HF3Cl2, HCFC‐123 ,0.02–0.06,77,3
+Annex C,Group I,CHCl2CF3, HCFC‐123 **,0.02,,
+Annex C,Group I,C2HF4Cl, HCFC‐124 ,0.02–0.04,609,2
+Annex C,Group I,CHFClCF3, HCFC‐124 **,0.022,,
+Annex C,Group I,C2H2FCl3, HCFC‐131 ,0.007–0.05,,3
+Annex C,Group I,C2H2F2Cl2, HCFC‐132 ,0.008–0.05,,4
+Annex C,Group I,C2H2F3Cl, HCFC‐133 ,0.02–0.06,,3
+Annex C,Group I,C2H3FCl2, HCFC‐141 ,0.005–0.07,,3
+Annex C,Group I,CH3CFCl2, HCFC‐141b **,0.11,725,
+Annex C,Group I,C2H3F2Cl, HCFC‐142 ,0.008–0.07,,3
+Annex C,Group I,CH3CF2Cl, HCFC‐142b **,0.065,2 310,
+Annex C,Group I,C2H4FCl, HCFC‐151 ,0.003–0.005,,2
+Annex C,Group I,C3HFCl6, HCFC‐221 ,0.015–0.07,,5
+Annex C,Group I,C3HF2Cl5, HCFC‐222 ,0.01–0.09,,9
+Annex C,Group I,C3HF3Cl4, HCFC‐223 ,0.01–0.08,,12
+Annex C,Group I,C3HF4Cl3, HCFC‐224 ,0.01–0.09,,12
+Annex C,Group I,C3HF5Cl2, HCFC‐225 ,0.02–0.07,,9
+Annex C,Group I,CF3CF2CHCl2, HCFC‐225ca **,0.025,122,
+Annex C,Group I,CF2ClCF2CHClF, HCFC‐225cb **,0.033,595,
+Annex C,Group I,C3HF6Cl, HCFC‐226 ,0.02–0.10,,5
+Annex C,Group I,C3H2FCl5, HCFC‐231 ,0.05–0.09,,9
+Annex C,Group I,C3H2F2Cl4, HCFC‐232 ,0.008–0.10,,16
+Annex C,Group I,C3H2F3Cl3, HCFC‐233 ,0.007–0.23,,18
+Annex C,Group I,C3H2F4Cl2, HCFC‐234 ,0.01–0.28,,16
+Annex C,Group I,C3H2F5Cl, HCFC‐235 ,0.03–0.52,,9
+Annex C,Group I,C3H3FCl4, HCFC‐241 ,0.004–0.09,,12
+Annex C,Group I,C3H3F2Cl3, HCFC‐242 ,0.005–0.13,,18
+Annex C,Group I,C3H3F3Cl2, HCFC‐243 ,0.007–0.12,,18
+Annex C,Group I,C3H3F4Cl, HCFC‐244 ,0.009–0.14,,12
+Annex C,Group I,C3H4FCl3, HCFC‐251 ,0.001–0.01,,12
+Annex C,Group I,C3H4F2Cl2, HCFC‐252 ,0.005–0.04,,16
+Annex C,Group I,C3H4F3Cl, HCFC‐253 ,0.003–0.03,,12
+Annex C,Group I,C3H5FCl2, HCFC‐261 ,0.002–0.02,,9
+Annex C,Group I,C3H5F2Cl, HCFC‐262 ,0.002–0.02,,9
+Annex C,Group I,C3H6FCl, HCFC‐271 ,0.001–0.03,,5
+Annex C,Group II,CHFBr2,,1.00,,1
+Annex C,Group II,CHF2Br, HBFC‐22B1 ,0.74,,1
+Annex C,Group II,CH2FBr,,0.73,,1
+Annex C,Group II,C2HFBr4,,0.3–0.8,,2
+Annex C,Group II,C2HF2Br3,,0.5–1.8,,3
+Annex C,Group II,C2HF3Br2,,0.4–1.6,,3
+Annex C,Group II,C2HF4Br,,0.7–1.2,,2
+Annex C,Group II,C2H2FBr3,,0.1–1.1,,3
+Annex C,Group II,C2H2F2Br2,,0.2–1.5,,4
+Annex C,Group II,C2H2F3Br,,0.7–1.6,,3
+Annex C,Group II,C2H3FBr2,,0.1–1.7,,3
+Annex C,Group II,C2H3F2Br,,0.2–1.1,,3
+Annex C,Group II,C2H4FBr,,0.07–0.1,,2
+Annex C,Group II,C3HFBr6,,0.3–1.5,,5
+Annex C,Group II,C3HF2Br5,,0.2–1.9,,9
+Annex C,Group II,C3HF3Br4,,0.3–1.8,,12
+Annex C,Group II,C3HF4Br3,,0.5–2.2,,12
+Annex C,Group II,C3HF5Br2,,0.9–2.0,,9
+Annex C,Group II,C3HF6Br,,0.7–3.3,,5
+Annex C,Group II,C3H2FBr5,,0.1–1.9,,9
+Annex C,Group II,C3H2F2Br4,,0.2–2.1,,16
+Annex C,Group II,C3H2F3Br3,,0.2–5.6,,18
+Annex C,Group II,C3H2F4Br2,,0.3–7.5,,16
+Annex C,Group II,C3H2F5Br,,0.9–1.4,,8
+Annex C,Group II,C3H3FBr4,,0.08–1.9,,12
+Annex C,Group II,C3H3F2Br3,,0.1–3.1,,18
+Annex C,Group II,C3H3F3Br2,,0.1–2.5,,18
+Annex C,Group II,C3H3F4Br,,0.3–4.4,,12
+Annex C,Group II,C3H4FBr3,,0.03–0.3,,12
+Annex C,Group II,C3H4F2Br2,,0.1–1.0,,16
+Annex C,Group II,C3H4F3Br,,0.07–0.8,,12
+Annex C,Group II,C3H5FBr2,,0.04–0.4,,9
+Annex C,Group II,C3H5F2Br,,0.07–0.8,,9
+Annex C,Group II,C3H6FBr,,0.02–0.7,,5
+Annex C,Group III,CH2BrCl,bromochloromethane,0.12,,1
+Annex F,Group I,CHF2CHF2,HFC‐134,,1 100,
+Annex F,Group I,CH2FCF3,HFC‐134a,,1 430,
+Annex F,Group I,CH2FCHF2,HFC‐143,,353,
+Annex F,Group I,CHF2CH2CF3,HFC‐245fa,,1 030,
+Annex F,Group I,CF3CH2CF2CH3,HFC‐365mfc,,794,
+Annex F,Group I,CF3CHFCF3,HFC‐227ea,,3 220,
+Annex F,Group I,CH2FCF2CF3,HFC‐236cb,,1 340,
+Annex F,Group I,CHF2CHFCF3,HFC‐236ea,,1 370,
+Annex F,Group I,CF3CH2CF3,HFC‐236fa,,9 810,
+Annex F,Group I,CH2FCF2CHF2,HFC‐245ca,,693,
+Annex F,Group I,CF3CHFCHFCF2CF3,HFC‐43‐10mee,,1 640,
+Annex F,Group I,CH2F2,HFC‐32,,675,
+Annex F,Group I,CHF2CF3,HFC‐125,,3 500,
+Annex F,Group I,CH3CF3,HFC‐143a,,4 470,
+Annex F,Group I,CH3F,HFC‐41,,92,
+Annex F,Group I,CH2FCH2F,HFC‐152,,53,
+Annex F,Group I,CH3CHF2,HFC‐152a,,124,
+Annex F,Group II,CHF3,HFC‐23,,14 800,
+Annex E,Group I,CH3Br,methyl bromide,0.6,,
