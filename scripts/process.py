@@ -63,7 +63,7 @@ annex_e["Group"] = "Group I"
 annex = pd.concat([annex_a, annex_b, annex_c_group_1, annex_c_group_2_3, annex_f, annex_e], sort=False)
 annex["Substance"] = annex["Substance"].str.replace('(', ' ')
 annex["Substance"] = annex["Substance"].str.replace(')', ' ')
-
+annex["Substance"] = annex["Substance"].str.strip()
 
 assert len(annex[annex["Annex"] == "Annex A"]) == 8
 assert len(annex[annex["Annex"] == "Annex B"]) == 12
