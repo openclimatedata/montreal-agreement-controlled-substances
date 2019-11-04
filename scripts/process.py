@@ -33,6 +33,7 @@ annex_c_group_1.columns = ['Group', 'Substance', 'Number of isomers', 'Ozone-Dep
 annex_c_group_1["Formula"] = annex_c_group_1["Group"]
 annex_c_group_1["Group"] = annex_c_group_1["Group"].apply(lambda x: x if x.startswith("Group") else None)
 annex_c_group_1["Group"] = annex_c_group_1["Group"].ffill()
+annex_c_group_1["Substance"] = annex_c_group_1["Substance"].str.replace('*', '')
 annex_c_group_1 = annex_c_group_1[~annex_c_group_1["Substance"].isnull()]
 annex_c_group_1["Number of isomers"] = annex_c_group_1["Number of isomers"].astype(pd.Int64Dtype())
 annex_c_group_1.columns = ['Group', 'Substance', 'Number of isomers', 'Ozone-Depleting Potential', '100-Year Global Warming Potential', 'Formula']
