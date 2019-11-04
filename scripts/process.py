@@ -64,6 +64,7 @@ annex = pd.concat([annex_a, annex_b, annex_c_group_1, annex_c_group_2_3, annex_f
 annex["Substance"] = annex["Substance"].str.replace('(', ' ')
 annex["Substance"] = annex["Substance"].str.replace(')', ' ')
 annex["Substance"] = annex["Substance"].str.strip()
+annex["100-Year Global Warming Potential"] = annex["100-Year Global Warming Potential"].str.replace(" ", "")
 
 assert len(annex[annex["Annex"] == "Annex A"]) == 8
 assert len(annex[annex["Annex"] == "Annex B"]) == 12
@@ -74,7 +75,4 @@ assert len(annex[annex["Annex"] == "Annex E"]) == 1
 assert len(annex[annex["Annex"] == "Annex F"]) == 18
 
 annex.to_csv(root / "montreal-protocol-controlled-substances.csv", index=False)
-
-
-
 
